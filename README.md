@@ -8,7 +8,7 @@ Rently è un progetto dedicato a promuovere uno stile di vita più sostenibile a
 
 ### 🤖 Modello di Machine Learning
 
-Rently vuole permettere agli utententi, anche appena registrati, di avere una panoramica su alcuni annunci che potrebbero interessare l'utente mediante un form che viene compilato dopo la registrazione che permette di ottenere le informazioni che servono per potrer predirre quale categoria di annunci potrebbe essere quella più interessante per l'utente.
+Rently vuole permettere agli utententi, anche appena registrati, di avere una panoramica su alcuni annunci che potrebbero interessare l'utente mediante un form che viene compilato dopo la registrazione che permette di ottenere le informazioni che servono per poter predire quale categoria di annunci potrebbe essere quella più interessante per l'utente.
 
 ## 🗃️ Cosa contiene la nostra Repository
 
